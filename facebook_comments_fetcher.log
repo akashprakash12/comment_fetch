@@ -1,0 +1,460 @@
+2025-06-04 11:26:23,525 - INFO - Starting real-time Facebook comments fetcher...
+2025-06-04 11:26:25,125 - INFO - API connection test successful
+2025-06-04 11:26:25,126 - INFO - Checking for new comments at 2025-06-04 05:56:25
+2025-06-04 11:26:26,459 - INFO - Fetched 11 new comments
+2025-06-04 11:26:26,481 - INFO - Saved 11 new comments to D:\Collectrate Internship\comments\facebook_comments_data.xlsx
+2025-06-04 11:26:26,483 - INFO - Saved state with last comment ID: 122110299680881712_1902535247159859, time: 2025-06-04 05:52:13
+2025-06-04 11:26:26,483 - INFO - Updated state with new last comment ID: 122110299680881712_1902535247159859, time: 2025-06-04 05:52:13
+2025-06-04 11:26:26,483 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:26:31,485 - INFO - Checking for new comments at 2025-06-04 05:56:31
+2025-06-04 11:26:31,485 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:52:13' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:26:33,038 - INFO - Fetched 11 new comments
+2025-06-04 11:26:33,065 - INFO - No new comments after duplicate check
+2025-06-04 11:26:33,065 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:26:38,066 - INFO - Checking for new comments at 2025-06-04 05:56:38
+2025-06-04 11:26:38,066 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:52:13' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:26:39,450 - INFO - Fetched 11 new comments
+2025-06-04 11:26:39,458 - INFO - No new comments after duplicate check
+2025-06-04 11:26:39,458 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:26:44,459 - INFO - Checking for new comments at 2025-06-04 05:56:44
+2025-06-04 11:26:44,460 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:52:13' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:26:45,788 - INFO - Fetched 11 new comments
+2025-06-04 11:26:45,796 - INFO - No new comments after duplicate check
+2025-06-04 11:26:45,796 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:26:50,797 - INFO - Checking for new comments at 2025-06-04 05:56:50
+2025-06-04 11:26:50,798 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:52:13' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:26:52,273 - INFO - Fetched 11 new comments
+2025-06-04 11:26:52,280 - INFO - No new comments after duplicate check
+2025-06-04 11:26:52,281 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:26:57,282 - INFO - Checking for new comments at 2025-06-04 05:56:57
+2025-06-04 11:26:57,282 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:52:13' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:26:58,571 - INFO - Fetched 11 new comments
+2025-06-04 11:26:58,578 - INFO - No new comments after duplicate check
+2025-06-04 11:26:58,578 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:03,579 - INFO - Checking for new comments at 2025-06-04 05:57:03
+2025-06-04 11:27:03,579 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:52:13' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:04,882 - INFO - Fetched 11 new comments
+2025-06-04 11:27:04,890 - INFO - No new comments after duplicate check
+2025-06-04 11:27:04,890 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:09,892 - INFO - Checking for new comments at 2025-06-04 05:57:09
+2025-06-04 11:27:09,892 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:52:13' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:11,157 - INFO - Fetched 12 new comments
+2025-06-04 11:27:11,186 - INFO - Saved 1 new comments to D:\Collectrate Internship\comments\facebook_comments_data.xlsx
+2025-06-04 11:27:11,187 - INFO - Saved state with last comment ID: 122110299680881712_694128743330707, time: 2025-06-04 05:57:07
+2025-06-04 11:27:11,187 - INFO - Updated state with new last comment ID: 122110299680881712_694128743330707, time: 2025-06-04 05:57:07
+2025-06-04 11:27:11,188 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:16,188 - INFO - Checking for new comments at 2025-06-04 05:57:16
+2025-06-04 11:27:16,189 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:17,564 - INFO - Fetched 12 new comments
+2025-06-04 11:27:17,583 - INFO - No new comments after duplicate check
+2025-06-04 11:27:17,584 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:22,584 - INFO - Checking for new comments at 2025-06-04 05:57:22
+2025-06-04 11:27:22,585 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:23,912 - INFO - Fetched 12 new comments
+2025-06-04 11:27:23,921 - INFO - No new comments after duplicate check
+2025-06-04 11:27:23,921 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:28,922 - INFO - Checking for new comments at 2025-06-04 05:57:28
+2025-06-04 11:27:28,922 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:30,644 - INFO - Fetched 12 new comments
+2025-06-04 11:27:30,656 - INFO - No new comments after duplicate check
+2025-06-04 11:27:30,656 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:35,657 - INFO - Checking for new comments at 2025-06-04 05:57:35
+2025-06-04 11:27:35,658 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:37,545 - INFO - Fetched 12 new comments
+2025-06-04 11:27:37,553 - INFO - No new comments after duplicate check
+2025-06-04 11:27:37,553 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:42,554 - INFO - Checking for new comments at 2025-06-04 05:57:42
+2025-06-04 11:27:42,554 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:43,951 - INFO - Fetched 12 new comments
+2025-06-04 11:27:43,959 - INFO - No new comments after duplicate check
+2025-06-04 11:27:43,959 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:48,960 - INFO - Checking for new comments at 2025-06-04 05:57:48
+2025-06-04 11:27:48,961 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:50,597 - INFO - Fetched 12 new comments
+2025-06-04 11:27:50,604 - INFO - No new comments after duplicate check
+2025-06-04 11:27:50,605 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:27:55,606 - INFO - Checking for new comments at 2025-06-04 05:57:55
+2025-06-04 11:27:55,606 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:27:57,582 - INFO - Fetched 12 new comments
+2025-06-04 11:27:57,589 - INFO - No new comments after duplicate check
+2025-06-04 11:27:57,590 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:02,591 - INFO - Checking for new comments at 2025-06-04 05:58:02
+2025-06-04 11:28:02,591 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:04,217 - INFO - Fetched 12 new comments
+2025-06-04 11:28:04,225 - INFO - No new comments after duplicate check
+2025-06-04 11:28:04,225 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:09,226 - INFO - Checking for new comments at 2025-06-04 05:58:09
+2025-06-04 11:28:09,227 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:10,745 - INFO - Fetched 12 new comments
+2025-06-04 11:28:10,752 - INFO - No new comments after duplicate check
+2025-06-04 11:28:10,752 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:15,754 - INFO - Checking for new comments at 2025-06-04 05:58:15
+2025-06-04 11:28:15,754 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:16,907 - INFO - Fetched 12 new comments
+2025-06-04 11:28:16,918 - INFO - No new comments after duplicate check
+2025-06-04 11:28:16,918 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:21,920 - INFO - Checking for new comments at 2025-06-04 05:58:21
+2025-06-04 11:28:21,920 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:22,913 - INFO - Fetched 12 new comments
+2025-06-04 11:28:22,922 - INFO - No new comments after duplicate check
+2025-06-04 11:28:22,922 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:27,923 - INFO - Checking for new comments at 2025-06-04 05:58:27
+2025-06-04 11:28:27,923 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:28,944 - INFO - Fetched 12 new comments
+2025-06-04 11:28:28,951 - INFO - No new comments after duplicate check
+2025-06-04 11:28:28,952 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:33,953 - INFO - Checking for new comments at 2025-06-04 05:58:33
+2025-06-04 11:28:33,953 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:57:07' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:35,424 - INFO - Fetched 13 new comments
+2025-06-04 11:28:35,451 - INFO - Saved 1 new comments to D:\Collectrate Internship\comments\facebook_comments_data.xlsx
+2025-06-04 11:28:35,452 - INFO - Saved state with last comment ID: 122110299680881712_1396671478236496, time: 2025-06-04 05:58:30
+2025-06-04 11:28:35,453 - INFO - Updated state with new last comment ID: 122110299680881712_1396671478236496, time: 2025-06-04 05:58:30
+2025-06-04 11:28:35,453 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:40,454 - INFO - Checking for new comments at 2025-06-04 05:58:40
+2025-06-04 11:28:40,454 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:41,561 - INFO - Fetched 13 new comments
+2025-06-04 11:28:41,569 - INFO - No new comments after duplicate check
+2025-06-04 11:28:41,569 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:46,570 - INFO - Checking for new comments at 2025-06-04 05:58:46
+2025-06-04 11:28:46,570 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:48,890 - INFO - Fetched 13 new comments
+2025-06-04 11:28:48,897 - INFO - No new comments after duplicate check
+2025-06-04 11:28:48,898 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:28:53,899 - INFO - Checking for new comments at 2025-06-04 05:58:53
+2025-06-04 11:28:53,899 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:28:55,426 - INFO - Fetched 13 new comments
+2025-06-04 11:28:55,434 - INFO - No new comments after duplicate check
+2025-06-04 11:28:55,435 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:00,436 - INFO - Checking for new comments at 2025-06-04 05:59:00
+2025-06-04 11:29:00,436 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:02,003 - INFO - Fetched 13 new comments
+2025-06-04 11:29:02,010 - INFO - No new comments after duplicate check
+2025-06-04 11:29:02,010 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:07,012 - INFO - Checking for new comments at 2025-06-04 05:59:07
+2025-06-04 11:29:07,012 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:08,147 - INFO - Fetched 13 new comments
+2025-06-04 11:29:08,155 - INFO - No new comments after duplicate check
+2025-06-04 11:29:08,155 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:13,156 - INFO - Checking for new comments at 2025-06-04 05:59:13
+2025-06-04 11:29:13,156 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:14,696 - INFO - Fetched 13 new comments
+2025-06-04 11:29:14,706 - INFO - No new comments after duplicate check
+2025-06-04 11:29:14,706 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:19,707 - INFO - Checking for new comments at 2025-06-04 05:59:19
+2025-06-04 11:29:19,708 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:21,212 - INFO - Fetched 13 new comments
+2025-06-04 11:29:21,220 - INFO - No new comments after duplicate check
+2025-06-04 11:29:21,221 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:26,221 - INFO - Checking for new comments at 2025-06-04 05:59:26
+2025-06-04 11:29:26,222 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:27,704 - INFO - Fetched 13 new comments
+2025-06-04 11:29:27,715 - INFO - No new comments after duplicate check
+2025-06-04 11:29:27,716 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:32,717 - INFO - Checking for new comments at 2025-06-04 05:59:32
+2025-06-04 11:29:32,717 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:34,152 - INFO - Fetched 13 new comments
+2025-06-04 11:29:34,160 - INFO - No new comments after duplicate check
+2025-06-04 11:29:34,160 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:39,162 - INFO - Checking for new comments at 2025-06-04 05:59:39
+2025-06-04 11:29:39,162 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:40,454 - INFO - Fetched 13 new comments
+2025-06-04 11:29:40,461 - INFO - No new comments after duplicate check
+2025-06-04 11:29:40,462 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:45,463 - INFO - Checking for new comments at 2025-06-04 05:59:45
+2025-06-04 11:29:45,463 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:46,945 - INFO - Fetched 13 new comments
+2025-06-04 11:29:46,963 - INFO - No new comments after duplicate check
+2025-06-04 11:29:46,963 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:51,964 - INFO - Checking for new comments at 2025-06-04 05:59:51
+2025-06-04 11:29:51,965 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:29:53,454 - INFO - Fetched 13 new comments
+2025-06-04 11:29:53,461 - INFO - No new comments after duplicate check
+2025-06-04 11:29:53,461 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:29:58,462 - INFO - Checking for new comments at 2025-06-04 05:59:58
+2025-06-04 11:29:58,463 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:00,028 - INFO - Fetched 13 new comments
+2025-06-04 11:30:00,046 - INFO - No new comments after duplicate check
+2025-06-04 11:30:00,047 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:05,048 - INFO - Checking for new comments at 2025-06-04 06:00:05
+2025-06-04 11:30:05,048 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:06,380 - INFO - Fetched 13 new comments
+2025-06-04 11:30:06,390 - INFO - No new comments after duplicate check
+2025-06-04 11:30:06,390 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:11,391 - INFO - Checking for new comments at 2025-06-04 06:00:11
+2025-06-04 11:30:11,391 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:13,006 - INFO - Fetched 13 new comments
+2025-06-04 11:30:13,013 - INFO - No new comments after duplicate check
+2025-06-04 11:30:13,014 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:18,015 - INFO - Checking for new comments at 2025-06-04 06:00:18
+2025-06-04 11:30:18,015 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:19,383 - INFO - Fetched 13 new comments
+2025-06-04 11:30:19,391 - INFO - No new comments after duplicate check
+2025-06-04 11:30:19,392 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:24,392 - INFO - Checking for new comments at 2025-06-04 06:00:24
+2025-06-04 11:30:24,393 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:25,954 - INFO - Fetched 13 new comments
+2025-06-04 11:30:25,962 - INFO - No new comments after duplicate check
+2025-06-04 11:30:25,962 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:30,963 - INFO - Checking for new comments at 2025-06-04 06:00:30
+2025-06-04 11:30:30,964 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:32,311 - INFO - Fetched 13 new comments
+2025-06-04 11:30:32,329 - INFO - No new comments after duplicate check
+2025-06-04 11:30:32,330 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:37,331 - INFO - Checking for new comments at 2025-06-04 06:00:37
+2025-06-04 11:30:37,331 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:38,884 - INFO - Fetched 13 new comments
+2025-06-04 11:30:38,893 - INFO - No new comments after duplicate check
+2025-06-04 11:30:38,893 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:43,895 - INFO - Checking for new comments at 2025-06-04 06:00:43
+2025-06-04 11:30:43,897 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:45,027 - INFO - Fetched 13 new comments
+2025-06-04 11:30:45,223 - INFO - No new comments after duplicate check
+2025-06-04 11:30:45,224 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:50,227 - INFO - Checking for new comments at 2025-06-04 06:00:50
+2025-06-04 11:30:50,227 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:30:51,522 - INFO - Fetched 13 new comments
+2025-06-04 11:30:51,533 - INFO - No new comments after duplicate check
+2025-06-04 11:30:51,533 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:30:56,534 - INFO - Checking for new comments at 2025-06-04 06:00:56
+2025-06-04 11:30:56,535 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:31:16,688 - WARNING - Request failed (attempt 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)). Retrying in 5 seconds...
+2025-06-04 11:31:25,676 - INFO - Fetched 13 new comments
+2025-06-04 11:31:25,685 - INFO - No new comments after duplicate check
+2025-06-04 11:31:25,685 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:31:30,686 - INFO - Checking for new comments at 2025-06-04 06:01:30
+2025-06-04 11:31:30,686 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:31:32,199 - INFO - Fetched 13 new comments
+2025-06-04 11:31:32,206 - INFO - No new comments after duplicate check
+2025-06-04 11:31:32,206 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:31:37,207 - INFO - Checking for new comments at 2025-06-04 06:01:37
+2025-06-04 11:31:37,207 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:31:38,465 - INFO - Fetched 13 new comments
+2025-06-04 11:31:38,473 - INFO - No new comments after duplicate check
+2025-06-04 11:31:38,474 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:31:43,475 - INFO - Checking for new comments at 2025-06-04 06:01:43
+2025-06-04 11:31:43,475 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:31:44,927 - INFO - Fetched 13 new comments
+2025-06-04 11:31:44,934 - INFO - No new comments after duplicate check
+2025-06-04 11:31:44,934 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:31:49,936 - INFO - Checking for new comments at 2025-06-04 06:01:49
+2025-06-04 11:31:49,936 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:31:51,181 - INFO - Fetched 13 new comments
+2025-06-04 11:31:51,189 - INFO - No new comments after duplicate check
+2025-06-04 11:31:51,190 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:31:56,191 - INFO - Checking for new comments at 2025-06-04 06:01:56
+2025-06-04 11:31:56,191 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:31:57,992 - INFO - Fetched 13 new comments
+2025-06-04 11:31:58,000 - INFO - No new comments after duplicate check
+2025-06-04 11:31:58,000 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:03,001 - INFO - Checking for new comments at 2025-06-04 06:02:03
+2025-06-04 11:32:03,002 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:04,848 - INFO - Fetched 13 new comments
+2025-06-04 11:32:04,856 - INFO - No new comments after duplicate check
+2025-06-04 11:32:04,856 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:09,857 - INFO - Checking for new comments at 2025-06-04 06:02:09
+2025-06-04 11:32:09,857 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:11,839 - INFO - Fetched 13 new comments
+2025-06-04 11:32:11,847 - INFO - No new comments after duplicate check
+2025-06-04 11:32:11,847 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:16,848 - INFO - Checking for new comments at 2025-06-04 06:02:16
+2025-06-04 11:32:16,848 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:18,249 - INFO - Fetched 13 new comments
+2025-06-04 11:32:18,257 - INFO - No new comments after duplicate check
+2025-06-04 11:32:18,258 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:23,259 - INFO - Checking for new comments at 2025-06-04 06:02:23
+2025-06-04 11:32:23,259 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:24,601 - INFO - Fetched 13 new comments
+2025-06-04 11:32:24,610 - INFO - No new comments after duplicate check
+2025-06-04 11:32:24,610 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:29,611 - INFO - Checking for new comments at 2025-06-04 06:02:29
+2025-06-04 11:32:29,612 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:30,945 - INFO - Fetched 13 new comments
+2025-06-04 11:32:30,954 - INFO - No new comments after duplicate check
+2025-06-04 11:32:30,954 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:35,955 - INFO - Checking for new comments at 2025-06-04 06:02:35
+2025-06-04 11:32:35,955 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:37,283 - INFO - Fetched 13 new comments
+2025-06-04 11:32:37,292 - INFO - No new comments after duplicate check
+2025-06-04 11:32:37,293 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:42,293 - INFO - Checking for new comments at 2025-06-04 06:02:42
+2025-06-04 11:32:42,294 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:43,612 - INFO - Fetched 13 new comments
+2025-06-04 11:32:43,619 - INFO - No new comments after duplicate check
+2025-06-04 11:32:43,620 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:48,621 - INFO - Checking for new comments at 2025-06-04 06:02:48
+2025-06-04 11:32:48,621 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:49,921 - INFO - Fetched 13 new comments
+2025-06-04 11:32:49,928 - INFO - No new comments after duplicate check
+2025-06-04 11:32:49,929 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:32:54,929 - INFO - Checking for new comments at 2025-06-04 06:02:54
+2025-06-04 11:32:54,930 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:32:56,488 - INFO - Fetched 13 new comments
+2025-06-04 11:32:56,496 - INFO - No new comments after duplicate check
+2025-06-04 11:32:56,496 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:01,497 - INFO - Checking for new comments at 2025-06-04 06:03:01
+2025-06-04 11:33:01,497 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:02,770 - INFO - Fetched 13 new comments
+2025-06-04 11:33:02,778 - INFO - No new comments after duplicate check
+2025-06-04 11:33:02,779 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:07,779 - INFO - Checking for new comments at 2025-06-04 06:03:07
+2025-06-04 11:33:07,780 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:09,458 - INFO - Fetched 13 new comments
+2025-06-04 11:33:09,465 - INFO - No new comments after duplicate check
+2025-06-04 11:33:09,465 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:14,467 - INFO - Checking for new comments at 2025-06-04 06:03:14
+2025-06-04 11:33:14,467 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:16,004 - INFO - Fetched 13 new comments
+2025-06-04 11:33:16,012 - INFO - No new comments after duplicate check
+2025-06-04 11:33:16,012 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:21,013 - INFO - Checking for new comments at 2025-06-04 06:03:21
+2025-06-04 11:33:21,013 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:22,361 - INFO - Fetched 13 new comments
+2025-06-04 11:33:22,368 - INFO - No new comments after duplicate check
+2025-06-04 11:33:22,368 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:27,369 - INFO - Checking for new comments at 2025-06-04 06:03:27
+2025-06-04 11:33:27,370 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:28,465 - INFO - Fetched 13 new comments
+2025-06-04 11:33:28,472 - INFO - No new comments after duplicate check
+2025-06-04 11:33:28,473 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:33,474 - INFO - Checking for new comments at 2025-06-04 06:03:33
+2025-06-04 11:33:33,474 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:34,728 - INFO - Fetched 13 new comments
+2025-06-04 11:33:34,735 - INFO - No new comments after duplicate check
+2025-06-04 11:33:34,735 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:39,736 - INFO - Checking for new comments at 2025-06-04 06:03:39
+2025-06-04 11:33:39,736 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:41,564 - INFO - Fetched 13 new comments
+2025-06-04 11:33:41,572 - INFO - No new comments after duplicate check
+2025-06-04 11:33:41,572 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:46,573 - INFO - Checking for new comments at 2025-06-04 06:03:46
+2025-06-04 11:33:46,573 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:48,092 - INFO - Fetched 13 new comments
+2025-06-04 11:33:48,101 - INFO - No new comments after duplicate check
+2025-06-04 11:33:48,101 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:53,102 - INFO - Checking for new comments at 2025-06-04 06:03:53
+2025-06-04 11:33:53,103 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:33:54,515 - INFO - Fetched 13 new comments
+2025-06-04 11:33:54,523 - INFO - No new comments after duplicate check
+2025-06-04 11:33:54,523 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:33:59,524 - INFO - Checking for new comments at 2025-06-04 06:03:59
+2025-06-04 11:33:59,524 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:01,119 - INFO - Fetched 13 new comments
+2025-06-04 11:34:01,127 - INFO - No new comments after duplicate check
+2025-06-04 11:34:01,127 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:06,128 - INFO - Checking for new comments at 2025-06-04 06:04:06
+2025-06-04 11:34:06,128 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:07,321 - INFO - Fetched 13 new comments
+2025-06-04 11:34:07,335 - INFO - No new comments after duplicate check
+2025-06-04 11:34:07,335 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:12,336 - INFO - Checking for new comments at 2025-06-04 06:04:12
+2025-06-04 11:34:12,337 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:14,092 - INFO - Fetched 13 new comments
+2025-06-04 11:34:14,101 - INFO - No new comments after duplicate check
+2025-06-04 11:34:14,101 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:19,102 - INFO - Checking for new comments at 2025-06-04 06:04:19
+2025-06-04 11:34:19,102 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:20,307 - INFO - Fetched 13 new comments
+2025-06-04 11:34:20,316 - INFO - No new comments after duplicate check
+2025-06-04 11:34:20,316 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:25,318 - INFO - Checking for new comments at 2025-06-04 06:04:25
+2025-06-04 11:34:25,318 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:26,802 - INFO - Fetched 13 new comments
+2025-06-04 11:34:26,810 - INFO - No new comments after duplicate check
+2025-06-04 11:34:26,810 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:31,811 - INFO - Checking for new comments at 2025-06-04 06:04:31
+2025-06-04 11:34:31,811 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:33,221 - INFO - Fetched 13 new comments
+2025-06-04 11:34:33,229 - INFO - No new comments after duplicate check
+2025-06-04 11:34:33,230 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:38,231 - INFO - Checking for new comments at 2025-06-04 06:04:38
+2025-06-04 11:34:38,231 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:39,837 - INFO - Fetched 13 new comments
+2025-06-04 11:34:39,845 - INFO - No new comments after duplicate check
+2025-06-04 11:34:39,845 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:44,846 - INFO - Checking for new comments at 2025-06-04 06:04:44
+2025-06-04 11:34:44,847 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:46,226 - INFO - Fetched 13 new comments
+2025-06-04 11:34:46,233 - INFO - No new comments after duplicate check
+2025-06-04 11:34:46,233 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:51,234 - INFO - Checking for new comments at 2025-06-04 06:04:51
+2025-06-04 11:34:51,235 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:52,311 - INFO - Fetched 13 new comments
+2025-06-04 11:34:52,319 - INFO - No new comments after duplicate check
+2025-06-04 11:34:52,319 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:34:57,321 - INFO - Checking for new comments at 2025-06-04 06:04:57
+2025-06-04 11:34:57,321 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:34:58,752 - INFO - Fetched 13 new comments
+2025-06-04 11:34:58,759 - INFO - No new comments after duplicate check
+2025-06-04 11:34:58,759 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:03,761 - INFO - Checking for new comments at 2025-06-04 06:05:03
+2025-06-04 11:35:03,761 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:04,793 - INFO - Fetched 13 new comments
+2025-06-04 11:35:04,801 - INFO - No new comments after duplicate check
+2025-06-04 11:35:04,801 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:09,803 - INFO - Checking for new comments at 2025-06-04 06:05:09
+2025-06-04 11:35:09,803 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:11,143 - INFO - Fetched 13 new comments
+2025-06-04 11:35:11,151 - INFO - No new comments after duplicate check
+2025-06-04 11:35:11,152 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:16,153 - INFO - Checking for new comments at 2025-06-04 06:05:16
+2025-06-04 11:35:16,153 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:17,626 - INFO - Fetched 13 new comments
+2025-06-04 11:35:17,633 - INFO - No new comments after duplicate check
+2025-06-04 11:35:17,633 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:22,634 - INFO - Checking for new comments at 2025-06-04 06:05:22
+2025-06-04 11:35:22,635 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:24,152 - INFO - Fetched 13 new comments
+2025-06-04 11:35:24,160 - INFO - No new comments after duplicate check
+2025-06-04 11:35:24,161 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:29,162 - INFO - Checking for new comments at 2025-06-04 06:05:29
+2025-06-04 11:35:29,162 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:31,093 - INFO - Fetched 13 new comments
+2025-06-04 11:35:31,102 - INFO - No new comments after duplicate check
+2025-06-04 11:35:31,102 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:36,103 - INFO - Checking for new comments at 2025-06-04 06:05:36
+2025-06-04 11:35:36,103 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:37,110 - INFO - Fetched 13 new comments
+2025-06-04 11:35:37,117 - INFO - No new comments after duplicate check
+2025-06-04 11:35:37,117 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:42,118 - INFO - Checking for new comments at 2025-06-04 06:05:42
+2025-06-04 11:35:42,119 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:43,731 - INFO - Fetched 13 new comments
+2025-06-04 11:35:43,740 - INFO - No new comments after duplicate check
+2025-06-04 11:35:43,740 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:48,741 - INFO - Checking for new comments at 2025-06-04 06:05:48
+2025-06-04 11:35:48,742 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:49,975 - INFO - Fetched 13 new comments
+2025-06-04 11:35:49,983 - INFO - No new comments after duplicate check
+2025-06-04 11:35:49,983 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:35:54,984 - INFO - Checking for new comments at 2025-06-04 06:05:54
+2025-06-04 11:35:54,985 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:35:56,547 - INFO - Fetched 13 new comments
+2025-06-04 11:35:56,554 - INFO - No new comments after duplicate check
+2025-06-04 11:35:56,555 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:36:01,555 - INFO - Checking for new comments at 2025-06-04 06:06:01
+2025-06-04 11:36:01,556 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:36:03,267 - INFO - Fetched 13 new comments
+2025-06-04 11:36:03,274 - INFO - No new comments after duplicate check
+2025-06-04 11:36:03,275 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:36:08,276 - INFO - Checking for new comments at 2025-06-04 06:06:08
+2025-06-04 11:36:08,276 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:36:09,499 - INFO - Fetched 13 new comments
+2025-06-04 11:36:09,508 - INFO - No new comments after duplicate check
+2025-06-04 11:36:09,508 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:36:14,510 - INFO - Checking for new comments at 2025-06-04 06:06:14
+2025-06-04 11:36:14,510 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:36:16,092 - INFO - Fetched 13 new comments
+2025-06-04 11:36:16,099 - INFO - No new comments after duplicate check
+2025-06-04 11:36:16,099 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:36:21,100 - INFO - Checking for new comments at 2025-06-04 06:06:21
+2025-06-04 11:36:21,100 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:36:22,391 - INFO - Fetched 13 new comments
+2025-06-04 11:36:22,398 - INFO - No new comments after duplicate check
+2025-06-04 11:36:22,399 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:36:27,400 - INFO - Checking for new comments at 2025-06-04 06:06:27
+2025-06-04 11:36:27,400 - WARNING - Invalid last_comment_time format: time data '2025-06-04 05:58:30' does not match format '%Y-%m-%dT%H:%M:%S%z'. Fetching all comments.
+2025-06-04 11:36:28,866 - INFO - Fetched 13 new comments
+2025-06-04 11:36:28,873 - INFO - No new comments after duplicate check
+2025-06-04 11:36:28,874 - INFO - Waiting 5 seconds for next check...
+2025-06-04 11:36:33,414 - INFO - 
+Stopping comment fetcher...
